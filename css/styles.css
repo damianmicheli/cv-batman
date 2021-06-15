@@ -1,3 +1,4 @@
+/* Elementos html */
 html {
     font-family: 'Times New Roman', Times, serif;
 }
@@ -11,23 +12,26 @@ h1, h2 {
 }
 
 h1 {
-    text-align: center;
     font-size: 35px;
+    text-align: center;
 }
 
 h2 {
     font-size: 20px;
 }
 
+/* header */
 header { 
     background-color: #E5E5E5;
 }
 
+/* main */
 main{
-    max-width: 1041px;
     margin: 50px auto; 
+    max-width: 1041px;
 }
 
+/* footer */
 footer{
     background-color: #005677;
     color: #FFFFFF;
@@ -36,11 +40,13 @@ footer{
     text-transform: uppercase;
 }
 
+/* Encabezado de datos personales */
 .datos-personales {
-    font-weight: bold;
     font-style: italic;
+    font-weight: bold;
 }
 
+/* Encabezados de fechas */
 .fecha {
     font-weight: bold;
 }
