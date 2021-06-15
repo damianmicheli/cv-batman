@@ -40,13 +40,18 @@ footer{
     text-transform: uppercase;
 }
 
-/* Encabezado de datos personales */
-.datos-personales {
+/* Imagen principal (Centrada como pude :-/) */
+.imagen-principal { 
+    text-align: center;
+}
+
+/* Encabezado de datos personales (todos los span dentro de una etiqueta con clase "datos-personales") */
+.datos-personales span{ 
     font-style: italic;
     font-weight: bold;
 }
 
-/* Encabezados de fechas */
-.fecha {
+/* Encabezados de fechas (todos los span dentro de una etiqueta con clase "fecha") */
+.fecha span{
     font-weight: bold;
 }
