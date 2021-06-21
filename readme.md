@@ -3,4 +3,4 @@
 - HTML
 - CSS
 
-https://damianmicheli.github.io/cv/
+https://damianmicheli.github.io/cv-batman/
